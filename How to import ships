@@ -1,0 +1,8 @@
+1: Download choosen ship
+2: Rename the file of the downloaded file to "ship_999.fbe"
+3: Open the "File explorer" by pressing ("Windows" + "E")
+4: In the search bar go to "C:\Users\(YOURUSERNAME)\AppData\Roaming\Starbase\ssc\autosave\ship_blueprints" (alternativley search for "%appdata%" then continue navigating to "Starbase/ssc/autosave/ship_blueprints")
+5: Move your downloaded and renamed file into this folder
+6: Now start Starbase (if already started and in the ssc, go out and in of the SSC)
+7: Click "File" then "Open or manage blueprints", click "Autosave" then click the blank save (should be at the top)
+8: Done, The ship should now be loaded
